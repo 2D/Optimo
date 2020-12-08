@@ -1,8 +1,9 @@
-Optimo : Multi-objective Optimization for Dynamo
+Using Multi-objective Optimization as a Design Methodology
 ======
 
 Inspirations lie here, belong philosophical and technology-wise worlds. 
 
+вид критерий рода - 
 https://en.wikipedia.org/wiki/Genus
 
 https://en.wikipedia.org/wiki/Genus_(mathematics)
