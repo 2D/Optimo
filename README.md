@@ -1,6 +1,16 @@
 Optimo : Multi-objective Optimization for Dynamo
 ======
-Optimo is a multi-objective optimization tool and it is part of for BIM-based Performance Optimization (BPOpt) that is created to be used on [Dynamo](http://dynamobim.org/learn/). Optimo is developed based on [jmetal.NET](http://jmetalnet.sourceforge.net/) open source code, which was originaly created by [Antonio J. Nebro](antonio@lcc.uma.es). 
+
+Inspirations lie here, belong philosophical and technology-wise worlds. 
+
+https://en.wikipedia.org/wiki/Genus
+
+https://en.wikipedia.org/wiki/Genus_(mathematics)
+
+
+## Technology
+
+Optimo is a multi-objective optimization tool and it is part of for BIM-based Performance Optimization (BPOpt) that is created to be used on [Dynamo](http://dynamobim.org/learn/). Optimo is developed based on [jmetal.NET](http://jmetalnet.sourceforge.net/) open source code, which was originaly created by Antonio J. Nebro
 
 ## Optimization Algorithms ##
 Optimization Algorithms as a part of AI are gaining more attention as design tools, in addition to as solution-finding tools. This fork‘s intention is to populize different types of Black-Box Optimization algorithms (metaheuristics, direct search and model-based) and digitalizing of the [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) (decision problem).
